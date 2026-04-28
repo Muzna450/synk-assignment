@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "dependencies": {
     "lodash": "4.17.17",
-    "express": "4.17.3"
+    "express": "4.22.0"
   }
 }
